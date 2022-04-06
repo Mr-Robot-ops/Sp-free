@@ -432,7 +432,6 @@ audio-ak.spotify.com.edgesuite.net
 audio-ak.spotify.com.eip.akadns.net
 audio-ake.spotify.com.edgesuite.net
 audio-akp-bbr-spotify-com.akamaized.net
-audio-akp-spotify-com.akamaized.net
 audio-akp.spotify.com
 audio-akp.spotify.com.edgesuite.net
 audio-cf.spotify.com
@@ -633,7 +632,6 @@ d9.audio-ak.cdn.spotify.com
 d9.video-ak.cdn.spotify.com
 da.audio-ak.cdn.spotify.com
 da.video-ak.cdn.spotify.com
-daily-mix.scdn.co
 daryl.ash.spotify.com
 daryl.ash1.spotify.com
 datawarehouse.spotify.com
@@ -648,7 +646,6 @@ dd.audio-ak.cdn.spotify.com
 dd.video-ak.cdn.spotify.com
 de.audio-ak.cdn.spotify.com
 de.video-ak.cdn.spotify.com
-dealer.spotify.com
 deborah.ash.spotify.com
 deborah.ash1.spotify.com
 decide.mixpanel.com
@@ -673,7 +670,6 @@ digitalassetlinks.googleapis.com
 docs.spotify.com
 doubleclick.
 doubleclick.net
-download.scdn.co
 download.spotify.com
 download.spotify.map.fastly.net
 ds.serving-sys.com
@@ -796,7 +792,6 @@ gew1-accesspoint-b-wfcl.ap.spotify.com
 gew1-accesspoint-b-wjjm.ap.spotify.com
 gew1-accesspoint-b-zg10.ap.spotify.com
 gew1.ap.spotify.com
-global-dealer-ssl.spotify.com
 go.scdn.co
 googleadapis.l.google.com
 googleads.g.doubleclick.
@@ -885,7 +880,6 @@ lb1-217593028.us-east-1.elb.am
 lb1-217593028.us-east-1.elb.amazonaws.com
 leadvisualdesigner.intercom.io
 line-in.spotify.com
-lineup-images.scdn.co
 links.iterable.com
 links.spotify.com
 live-tile-images.scdn.co
@@ -1149,7 +1143,6 @@ sync.adaptv.advertising.com
 sync.search.spotxchange.com
 t.admob.com
 t.myvisualiq.net
-t.scdn.co
 t.update.moatads.com
 tap1.vip.sc9.admob.com
 tathra.ash.spotify.com
